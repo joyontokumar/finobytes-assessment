@@ -14,7 +14,7 @@ npm install
 npm run dev
 ```
 
-Project Instruction:
+**Project Instruction:**
 
 ### 1
 
