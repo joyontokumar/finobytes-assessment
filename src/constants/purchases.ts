@@ -1,0 +1,18 @@
+export const purchasesData = [
+  { id: 1, customer: "John Doe", amount: 150, status: "Pending" },
+  { id: 2, customer: "Jane Smith", amount: 200, status: "Pending" },
+  { id: 3, customer: "Alice Johnson", amount: 120, status: "Approved" },
+  { id: 4, customer: "Bob Brown", amount: 180, status: "Pending" },
+  { id: 5, customer: "Charlie Davis", amount: 250, status: "Approved" },
+  { id: 6, customer: "David Evans", amount: 300, status: "Pending" },
+  { id: 7, customer: "Ella Green", amount: 90, status: "Approved" },
+  { id: 8, customer: "Frank Hall", amount: 220, status: "Pending" },
+  { id: 9, customer: "Grace Lee", amount: 140, status: "Pending" },
+  { id: 10, customer: "Henry King", amount: 200, status: "Approved" },
+  { id: 11, customer: "Ivy Scott", amount: 160, status: "Pending" },
+  { id: 12, customer: "Jack White", amount: 210, status: "Approved" },
+  { id: 13, customer: "Karen Black", amount: 130, status: "Pending" },
+  { id: 14, customer: "Leo Young", amount: 190, status: "Pending" },
+  { id: 15, customer: "Mia Clark", amount: 175, status: "Approved" },
+  { id: 16, customer: "Noah Hill", amount: 240, status: "Pending" },
+];
