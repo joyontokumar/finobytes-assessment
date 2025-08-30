@@ -1,5 +1,3 @@
-# React Project
-
 ## 🚀 Getting Started
 
 Follow the steps below to run this project locally:
